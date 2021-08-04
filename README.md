@@ -34,15 +34,16 @@ List of various tools and resources.
 
 ## Icons
 
-- [Material](https://fonts.google.com/icons)
-- [Feather](https://feathericons.com/)
+- [Akar Icons](https://akaricons.com/)
 - [Eva](https://akveo.github.io/eva-icons/#/)
+- [Feather](https://feathericons.com/)
 - [Heroicons](https://heroicons.dev/)
 - [Ionicons](https://ionic.io/ionicons)
 - [Ikonate](https://ikonate.com/)
-- [Tabler](https://tablericons.com/)
-- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - Website and app logos
+- [Material](https://fonts.google.com/icons)
 - [Simple Icons](https://simpleicons.org/) - Icons for popular brands
+- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - Website and app logos
+- [Tabler](https://tablericons.com/)
 
 ## Fonts
 
