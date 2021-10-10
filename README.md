@@ -31,9 +31,11 @@ List of various tools and resources.
 
 - [Unsplash](https://unsplash.com/)
 - [Undraw Illustrations](https://undraw.co/illustrations)
+- [Basic Pattern Repository](https://patterns.helloyes.dev/)
 
 ## Icons
 
+- [100 Pixel Icons](https://chuckchee.com/portfolio/135/)
 - [Akar Icons](https://akaricons.com/)
 - [Eva](https://akveo.github.io/eva-icons/#/)
 - [Feather](https://feathericons.com/)
